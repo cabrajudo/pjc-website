@@ -1,44 +1,36 @@
-# About Cabra Judo Club (CJC)
+# About Palmerstown Judo Club
 
 The club was established in 2011 by Alonzo Henderson 5th Dan Black Belt and former Irish international judo player
 
-CJC is a member club of the Irish Judo Association (IJA) and all coaches and staff are fully compliant with IJA and Sports Council requirements
+## Venue
 
-## Mission Statement
+Stewarts Sports Centre, Waterstown Ave, Palmerstown Lower, Dublin, Ireland [**Map**](https://goo.gl/maps/7Q4gdx6vdEPdN1jNA){:target="_blank"} 
 
-The mission of Cabra Judo club is to instill the values and a lifelong love of the olympic sport of judo in children of all backgrounds 
+## Lessons
 
-## Cabra
+Sunday    12:00-13:00 (kids)
 
-<span style="color:red">**Venue**</span> Cabra Parkside Community Sports Centre, Ratoath Road, Cabra, Dublin 7 [**Map**](https://goo.gl/maps/GkZEBZg8fYvLdPHq8){:target="_blank"} 
+Sunday    11:00-12:00 (adults)
 
-<span style="color:green">**Lessons**</span> Saturday 12:00-13:00 
+Wednesday 20:00-21:00 (adults)
 
-<span style="color:blue">**Mat fee**</span> 10 &euro;/lesson - *first lesson is free*
+Mat fee 10&euro;/lesson - first lesson is free
 
-## Phibsboro
+## Contact details
 
-<span style="color:red">**Venue**</span> The Space, Phibsboro Shipping Centre, Dublin 7 [**Map**](https://goo.gl/maps/NopZ3FVzMGLtEyDx9){:target="_blank"} 
+**email** maryal197@eircom.net
 
-<span style="color:green">**Lessons**</span> Saturday 10:00-12:00 
-
-<span style="color:blue">**Mat fee**</span> 10 &euro;/lesson - *first lesson is free*
-
-## Contact Details
-
-**email** cabrajudo@gmail.com
-
-**phone** +353 89 4634940 
+**phone** +353 89 4634940  
 
 ## Staff
 
 | **Officer** | **Name** | **Garda Vetting** | **Safeguarding Course** | **First-Aid Course** |
 |-|-|-|-|-|
 | *Head Coach* | Alonzo Henderson 5th Dan | 21 Nov 2021 | 12 Apr 2020 | 10 Nov 2020 |
-| *Asst Coach* | David Moloney | 26 Jun 2022 | 13 Mar 2021 | 10 Nov 2020 |
-| *Secretary* | David Moloney | 26 Jun 2022 | 13 Mar 2021 | 10 Nov 2020 |
-| *Childrens Officer* | Jillian Frayne | 12 Mar 2021 | 12 Mar 2021 | NA |
-| *Designated Person* | Jillian Frayne | 12 Mar 2021 | 12 Mar 2021 | NA |
+| *Asst Coach* | John Field |  |  |  |
+| *Secretary* | Mary McDonald | 17 Feb 2022 |  |  |
+| *Childrens Officer* | Mary McDonald | 17 Feb 2022 |  | NA |
+| *Designated Person* | Carlos Carreira | 06 Apr 2022 | 07 Mar 2020 | NA |
 
 
 
