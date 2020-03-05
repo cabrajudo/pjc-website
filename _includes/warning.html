@@ -1,4 +1,5 @@
 <div class="flash flash-error">
-    {% octicon alert %}
-    <strong>Warning: </strong>{{ include.content }}
+   <span class="Toast-icon">{% octicon briefcase %}</span>
+   <span class="Toast-content"><a href="{{include.url}}" target="_blank">{{include.text}}</a></span>
+   <!-- <span class="Toast-url">{{include.url}}</span> -->
 </div>
