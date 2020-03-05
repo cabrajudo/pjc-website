@@ -15,7 +15,7 @@
 ## News
 
 
-{% include warning.html url="https://irishjudoassociation.ie/statement-regarding-covid-19-irish-open-2020/" text="IJA statement on coronavirus" %}
+{% include warning.html url="https://irishjudoassociation.ie/statement-regarding-covid-19-irish-open-2020/" text="IJA statement on coronavirus. If you're feeling unwell stay home please!" %}
 
 
 {% include alert.html url="https://irishjudoassociation.ie/calendar" text="IJA Leinster Level 1 coaching course Feb 29 - Mar 1 and Apr 18-19" %}
